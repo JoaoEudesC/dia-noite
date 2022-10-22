@@ -13,6 +13,8 @@ var hora = time.getHours()     // comando para pegar as horas atuais
 
 
 
+
+
 a.innerHTML= `agora sao ${hora} horas`
 
 
